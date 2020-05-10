@@ -23,9 +23,3 @@ RUN apk add --no-cache bash curl \
  && rm -rf /tmp
 
 CMD ["start-kafka.sh"]
-
-
-
-
-
-
